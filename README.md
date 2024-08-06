@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=khalidelmerrah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khalidelmerrah&theme=)](https://github.com/ryo-ma/github-profile-trophy)
