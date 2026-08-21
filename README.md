@@ -1,18 +1,51 @@
-# 💫 About Me:
-Digital marketing<br>
+# 👋 Hey, I'm Khalid Elmerrah
 
+**Founder of [SharkSMS](https://sharksms.com) · Security-minded developer · MCP & automation tooling**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khalidelmerrah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=khalidelmerrah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidelmerrah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khalidelmerrah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I build developer tools, security software, and messaging infrastructure. My
+work leans toward tools that give AI agents *safe, auditable* access to real
+systems — SSH, servers, ad accounts, and message platforms.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khalidelmerrah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**ai-ssh-tools**](https://github.com/khalidelmerrah/ai-ssh-tools) | MCP server + CLI for safe SSH operations — connection pooling, credential isolation, audit logging, Git safety-net rollbacks | Go |
+| [**Facebook-ads-mcp**](https://github.com/khalidelmerrah/Facebook-ads-mcp) | 29 tools across 7 domains — manage your entire Meta Ads workflow through natural language | TypeScript |
+| [**WP Guardian Sentinel**](https://github.com/khalidelmerrah/wp-guardian-CVE-scan-wordpress-sites) | Security dashboard + agent plugin for monitoring & hardening multiple WordPress sites | Python / PHP |
+| [**ProjectX**](https://github.com/khalidelmerrah/ProjectX-EndPoint) | Local-first endpoint security dashboard — OSQuery telemetry, NVD CVE matching, AI risk analysis | Python / PyQt6 |
+| [**VDCS / CarScanner**](https://github.com/khalidelmerrah/CarScanner---Server-Side) | "Glass box" vehicle diagnostic engine — deterministic DTC analysis with optional AI enrichment | Python / FastAPI / Kotlin |
+| [**SharkSMS**](https://github.com/SharkSMS) | SMS & WhatsApp gateway SaaS — send from the Android phone you already own, flat pricing, REST API + webhooks | PHP / JS / Python |
+| [**Zoho Marketing Automation**](https://github.com/khalidelmerrah/zoho-plugin) | Direct integrations for WordPress/Elementor + WHMCS | PHP |
+
+## 🧰 What I work with
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-22c55e?logo=modelcontextprotocol&logoColor=white)
+
+- **MCP servers & AI tooling** — bridging LLMs to real infrastructure safely
+- **Security tooling** — endpoint telemetry, CVE scanning, reversible hardening
+- **Messaging infrastructure** — SMS/WhatsApp gateways, REST APIs, webhooks
+- **Full-stack** — from Android apps to Flask/FastAPI backends to WP plugins
+
+## 🔭 Currently
+
+- Growing [SharkSMS](https://sharksms.com) — open-sourcing SDKs and tools
+- Integrating **Gemini models** into agent tooling (login-based, no API keys)
+- Building MCP servers that make AI agents *safe* around production systems
+
+## 📫 Reach me
+
+- 🌐 [sharksms.com](https://sharksms.com)
+- ✉️ [contact@sharksms.com](mailto:contact@sharksms.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khalidelmerrah&theme=dark&hide_border=false&count_private=true&show_icons=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidelmerrah&theme=dark&hide_border=false&layout=compact)
